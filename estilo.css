@@ -1,0 +1,47 @@
+body {
+background-color: #C6D9EE;
+font-family: sans-serif;
+text-align: justify;
+}
+
+h1 {
+    text-align: right;
+    font-size: 3rem;
+}
+
+h2 {
+    font-family: monospace;
+    font-size: 3rem;
+    font-variant: small-caps;
+}
+strong {
+    color: chocolate
+}
+
+/* fechas */
+date {
+    color:orangered;
+}
+
+/* nombres */
+
+em {
+background-color: white;
+color: green;
+}
+p {
+    line-height: 200%;
+    text-indent: 3em;
+}
+
+span {
+    color:red;
+    font-family: "comic sans" , cursive;
+}
+
+footer {
+    text-align: right;
+    font-family:"comic sans", cursive;
+    font-size: 0.9rem;
+    background-color:lightblue;
+}
